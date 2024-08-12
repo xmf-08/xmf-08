@@ -10,5 +10,5 @@
 🌱 Fun fact: I am a consistent and the best coder 😄  
 
 ## Connect with me:
-[![LinkedIn](www.linkedin.com/in/muhammadyusuf-xakimov-21a195250)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadyusuf-xakimov-21a195250)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/khakimov__16)  
