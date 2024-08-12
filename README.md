@@ -6,7 +6,7 @@
 🔨 I can solve any problems that spark in Android Studio.  
 💻 All of my projects are available at [GitHub Repositories](https://github.com/xmf-08)  
 ✍️ I regularly write articles on [My Telegram Channel](https://t.me/this_is_a_real_me)
-📫 How to reach me: [your.email@example.com](muhammadyusuf020208@gmail.com)  
+📫 How to reach me: [muhammadyusuf020208@gmail.com](mailto:muhammadyusuf020208@gmail.com)  
 🌱 Fun fact: I am a consistent and the best coder 😄  
 
 ## Connect with me:
