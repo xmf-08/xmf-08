@@ -12,3 +12,5 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadyusuf-xakimov-21a195250)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/khakimov__16)  
+[![Telegram](https://img.shields.io/badge/Telegram-Account-blue)](https://t.me/life_is_comedia)  
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/this_is_a_real_me)
