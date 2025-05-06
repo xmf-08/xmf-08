@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mukhammadyusuf Khakimov
+# Hi 👋, I'm Mukhammadyusuf Hakimov
 
-## Junior Android Developer | 16 Years Old | 1 Year of Experience
+## Junior Android Developer | 17 Years Old | 1 Year of Experience
 
 🔧 I’m currently learning Kotlin, Java, and Android Development.  
 
