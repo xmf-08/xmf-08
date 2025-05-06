@@ -2,7 +2,7 @@
 
 ## Junior Android Developer | 17 Years Old | 1 Year of Experience
 
-🔧 I’m currently learning Kotlin, Java, and Android Development.  
+🔧 I’m currently deepening my knowledge about Kotlin, Java, and Android Development.  
 
 🔨 I can solve any problems that spark in Android Studio.  
 
