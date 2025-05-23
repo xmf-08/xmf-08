@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mukhammadyusuf Hakimov
 
-## Junior Android Developer | 17 Years Old | 1 Year of Experience
+## Pre-Senior Android Developer | 17 Years Old | 3 Year of Experience
 
-🔧 I’m currently deepening my knowledge about Kotlin, Java, and Android Development.  
+🔧 I’m currently deepening my knowledge about Kotlin, Java, Android Development, Python, Multi AI Agency Testing, and Cybersecurity.
 
 🔨 I can solve any problems that spark in Android Studio.  
 
@@ -12,7 +12,7 @@
 
 📫 How to reach me: [muhammadyusuf020208@gmail.com](mailto:muhammadyusuf020208@gmail.com)  
 
-🌱 Fun fact: I am a consistent and the best coder 😄  
+🌱 Fun fact: I am a consistent and the top coder 😄  
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadyusuf-xakimov-21a195250)
