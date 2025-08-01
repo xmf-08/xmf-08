@@ -40,6 +40,14 @@ My long-term ambition is to work at the intersection of **ethical AI** and **rob
 
 ## 🗣 Public Speaking & Leadership
 
+- Participant in the elite **Hogwarts camp** - official 7-day program of New Uzbekistan University
+- 120$ scolarship(fully covered) winner among 500+ strong applicants
+
+- 🧭 Values-Driven Decisions
+🎓 Accepted into ENG4IT (a top-tier English for IT program run by the U.S. Embassy)
+  ⤷ Chose to step back after selection, prioritizing personal learning goals and already-acquired experience
+  ⤷ A decision grounded in clarity of purpose, not lack of ability
+  
 - **Debate Achievements:**
   - **Best Debater of Margilan and Fergana** – Officially awarded by Ibrat Debate (Uzbekistan’s leading debate institution)
   - **Judge and Organizer** at Fergana City Debate sessions
@@ -80,7 +88,7 @@ My long-term ambition is to work at the intersection of **ethical AI** and **rob
 
 - Founder of an **eco-health awareness group** on Telegram
 - Actively documenting work on healthcare advocacy and environmental action
-- Articles and videos posted on [my Telegram Channel](https://t.me/this_is_a_real_me)
+- Articles and videos posted on [my Telegram Channel](https://t.me/yaxshi_amalllar)
 
 ---
 
