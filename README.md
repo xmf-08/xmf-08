@@ -96,7 +96,7 @@ My long-term ambition is to work at the intersection of **ethical AI** and **rob
 
 📫 **Email:** [muhammadyusuf020208@gmail.com](mailto:muhammadyusuf020208@gmail.com)  
 🌐 **GitHub:** [xmf-08](https://github.com/xmf-08)  
-🗨 **LinkedIn:** [mukhammadyusuf-xakimov](https://www.linkedin.com/in/muhammadyusuf-xakimov-21a195250)  
+🗨 **LinkedIn:** [mukhammadyusuf-xakimov](https://www.linkedin.com/in/muhammadyusuf-hakimov-21a195250)  
 💬 **Telegram (Personal):** [life_is_comedia](https://t.me/life_is_comedia)  
 📢 **Telegram (Channel):** [this_is_a_real_me](https://t.me/this_is_a_real_me)
 
