@@ -18,6 +18,7 @@ I am a highly motivated 17-year-old developer, public speaker, researcher, and c
   - **Telegram-like Chat System** – Developed early in my career as a practical intro to real-time communication apps.
   - **KNews App** – A custom news aggregation app built using live APIs.
   - **Children’s Educational Games** – Flag quiz games and general knowledge games designed for young learners.
+  - **Website regarding the Philophy** [it's available here](https://xmf-08.github.io/Philosophy/sophists_to_modern_philosophy_long_form_blog_html.html)
 
 - **Certificates:**
   - Junior Android Developer (now self-taught to pre-senior level)
