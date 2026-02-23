@@ -6,7 +6,7 @@
 
 ## 🚀 Who I Am
 
-I am a highly motivated 17-year-old developer, public speaker, researcher, and community leader from Margilan, Uzbekistan. Currently attending School No. 2 with a GPA of **4.9**, I am known for setting an example for my peers through both academic excellence and active community contribution. I once won a spot at the Presidential School of Fergana but chose to stay at my beloved school to continue leading and inspiring my classmates.
+I am a highly motivated 18-year-old developer, public speaker, researcher, and community leader from Margilan, Uzbekistan. Currently attending Registan Private School with a GPA of **4.9**, I am known for setting an example for my peers through both academic excellence and active community contribution. I once won a spot at the Presidential School of Fergana but chose to stay at my beloved school to continue leading and inspiring my classmates.
 
 ## 🧑‍💻 Tech Skills & Projects
 
@@ -72,7 +72,7 @@ My long-term ambition is to work at the intersection of **ethical AI** and **rob
 
 - **GPA:** 4.9 (Top performer in STEM and health science subjects)
 - **IELTS:** 7.5 (Target: 8.5+ – Upcoming)
-- **SAT:** 1470 mock (790 Math, 680 English) – **Target: 1500+ – Real SAT Coming Soon**
+- **SAT:** 1470 (800 Math, 670 EBRW) – **Target: 1500+ – Coming Soon**
 - **Olympiads:** Participant in national-level physics and English competitions
 
 ---
